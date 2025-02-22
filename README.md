@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  platforms for communication 💬
 </h1>
 
 <p align="center">
@@ -57,7 +57,7 @@ technical_background:
   ]
   
 currently_learning: ["Quantum-Computing,CS and automation"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming","Learning","Comedy" and "Building mindset"]
 ```
   
