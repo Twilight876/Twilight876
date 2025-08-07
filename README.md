@@ -36,8 +36,9 @@ current_job: student
 education:
   [
     "Self-Taught computer science"
-    "Learning Quantum computing to become Quantum algorithm developer"
+    "self taucht QM and everything else"
     "student"
+    "comedy
   ]
 
 
