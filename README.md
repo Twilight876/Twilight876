@@ -1,75 +1,61 @@
+<!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=Welcome%20to%20Twilight's%20Universe&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">
-  platforms for communication 💬
-</h1>
-
+<!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
-<a href="none">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/ali-mahmoud-247004293/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://medium.com/@alimahmoudfarghaly">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-
-</a>
-<a href="[https://twitter.com/Ipiyushmalhotra](https://x.com/AliMahm667162)">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/the_twilight_void/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF00FF&center=true&vCenter=true&width=800&lines=Student+%7C+Self-Taught+Explorer;Quantum+Computing+%26+Physics+Lover;Machine+Learning+%7C+Data+Science;Always+Learning+%7C+Always+Building">
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<!-- ====== SOCIAL LINKS ====== -->
+<h2 align="center">🌐 Platforms for Communication</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-mahmoud-247004293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://medium.com/@alimahmoudfarghaly"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://x.com/AliMahm667162"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/the_twilight_void/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+<!-- ====== ABOUT ME ====== -->
+<h2 align="center">👨🏻‍💻 About Me</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Student%20%26%20Explorer-FF00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Quantum%20Computing%20%26%20CS-00FFFF?style=for-the-badge"/>
+</p>
+
+<details>
+<summary>📜 Click to View My Full Profile</summary>
 
 ```yaml
-name:~Twilight~
-current_job: student
+name: "Twilight"
+current_role: "Student & Self-Taught Explorer"
 education:
-  [
-    "Self-Taught computer science"
-    "self taucht QM and everything else"
-    "student"
-    "comedy
-  ]
+  - "Self-Taught Computer Science"
+  - "Self-Taught Quantum Mechanics & Quantum Computing"
+  - "High School Student"
+fields_of_interest:
+  - "Computer Science"
+  - "Data Science"
+  - "Machine Learning"
+  - "Quantum Computing"
+  - "Physics & Electronics"
+  - "Touch Design"
+  - "Programming + Simulation"
+currently_learning:
+  - "Quantum Computing"
+  - "CS + DS + ML"
+  - "QM + QC"
+goals_2026:
+  - "Become the best version of Twilight"
+hobbies:
+  - "Gaming"
+  - "Learning"
+  - "Comedy"
+  - "Solitude"
 
-
-fields_of_interests:
-  [
-    "Computer Science"
-    "Data Science"
-    "Machine Learning"
-    "Quantum Computing"
-    "Quantum mechanics,physics"
-    "Electronics"
-    "Touch desgin"
-    "programming+simulation" 
-  ]
-technical_background:
-  [
-"Computer Science"
-    "Data Science"
-    "Machine Learning"
-    "Quantum Computing"
-    "programming"
-  ]
-  
-currently_learning: ["Quantum-Computing,CS,DS+ML,QM+QC"]
-2026 Goals: ["Learn be Twilight"]
-hobbies: ["Gaming","Learning","Comedy" and being alone]
-```
-  
----  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-<!-- GitHub Stats --> <h2>📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Twilight876&show_icons=true&theme=radical&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twilight876&theme=radical&hide_border=true" height="165"/> </p> <!-- Most Used Languages --> <h2>💻 Most Used Languages</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMahmoud&layout=compact&theme=radical&hide_border=true"/> </p> <!-- Languages & Tools --> <h2>🛠️ Languages & Tools</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,git,github,linux" /> </p> <!-- Fun Fact --> <h2>⚡ Fun Fact</h2> <p align="center"> I blend <b>science</b> & <b>philosophy</b> to explore the universe — one quantum bit at a time. </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+</details> <!-- ====== GITHUB STATS ====== --> <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Twilight876&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twilight876&theme=tokyonight&hide_border=true" height="165"/> </p> <!-- ====== MOST USED LANGUAGES ====== --> <h2 align="center">💻 Most Used Languages</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight876&layout=compact&theme=tokyonight&hide_border=true"/> </p> <!-- ====== TOOLS & LANGUAGES ====== --> <h2 align="center">🛠️ Languages & Tools</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,git,github,linux,react,figma,vscode&theme=dark" /> </p> <!-- ====== FUN FACT ====== --> <h2 align="center">⚡ Fun Fact</h2> <p align="center"> I blend <b>science</b> & <b>philosophy</b> to explore the universe — one quantum bit at a time. </p> <!-- ====== CONTRIBUTION SNAKE ====== --> <p align="center"> <img src="https://github.com/Twilight876/Twilight876/blob/output/github-contribution-grid-snake.svg" alt="snake"/> </p> <!-- ====== FOOTER ====== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=100&section=footer"/> </p> ```
