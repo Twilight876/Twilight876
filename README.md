@@ -47,6 +47,10 @@ fields_of_interests:
     "Data Science"
     "Machine Learning"
     "Quantum Computing"
+    "Quantum mechanics,physics"
+    "Electronics"
+    "Touch desgin"
+    "programming+simulation" 
   ]
 technical_background:
   [
@@ -54,11 +58,12 @@ technical_background:
     "Data Science"
     "Machine Learning"
     "Quantum Computing"
+    "programming"
   ]
   
-currently_learning: ["Quantum-Computing,CS and automation"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming","Learning","Comedy" and "Building mindset"]
+currently_learning: ["Quantum-Computing,CS,DS+ML,QM+QC"]
+2026 Goals: ["Learn be Twilight"]
+hobbies: ["Gaming","Learning","Comedy" and being alone]
 ```
   
 ---  
