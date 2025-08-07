@@ -72,3 +72,4 @@ hobbies: ["Gaming","Learning","Comedy" and being alone]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+<!-- GitHub Stats --> <h2>📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliMahmoud&show_icons=true&theme=radical&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMahmoud&theme=radical&hide_border=true" height="165"/> </p>
