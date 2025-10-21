@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github4life.herokuapp.com/Twilight876">
-    <img src="https://github4life.herokuapp.com/Twilight876.gif?z=6" alt="GitHub Game of Life" />
-  </a>
-</p>
-
 [![Actions Status](https://github.com/Twilight876/Twilight876/workflows/wakatime-stats/badge.svg)](https://github.com/Twilight876/Twilight876/actions)
 [![Actions Status](https://github.com/Twilight876/Twilight876/workflows/update-gh-activity/badge.svg)](https://github.com/Twilight876/Twilight876/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=Twilight876.Twilight876)
