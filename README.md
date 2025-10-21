@@ -86,7 +86,9 @@ hobbies:
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wo6xkmptkapehkfsfjrmhwltfm&count=5">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wo6xkmptkapehkfsfjrmhwltfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
 
 
