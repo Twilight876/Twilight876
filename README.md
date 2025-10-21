@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/guilyx/Twilight876/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+  <img src="https://socialify.git.ci/Twilight876/Twilight876/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Twilight" width="700" height="300" />
 </p>
 
 <h2 align="center">🧬 My GitHub Contributions — as a Game of Life</h2>
