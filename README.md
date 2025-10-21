@@ -5,7 +5,7 @@
 
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF00FF&center=true&vCenter=true&width=800&lines=Student+%7C+Self-Taught+Explorer;Quantum+Computing+%26+Physics+Lover;Machine+Learning+%7C+Data+Science;Always+Learning+%7C+Always+Building">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF00FF&center=true&vCenter=true&width=800&lines=Student+%7C+Self-Taught+Explorer;Quantum+Computing+%26+Math+Metaphysics;Machine+Learning+%7C+Data+Science;Always+Learning+%7C+Always+Building">
 </p>
 
 ---
