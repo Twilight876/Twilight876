@@ -111,13 +111,13 @@ hobbies:
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,115 Contributions in the Year 2025
+> 🏆 Lading.... Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 88 Public Repositories 
+> 📜 unknown Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 unknown Private Repositories 
  > 
 **I'm an Early 🐤** 
 
